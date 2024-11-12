@@ -8,6 +8,7 @@ Minimal instructions...
 `npm install`
 
 Uses: [`prinsss/node-tikzjax/tree/main`](https://github.com/prinsss/node-tikzjax/): `npm install --save node-tikzjax`
+https://github.com/Duanyll/tikzjax-preview ?? uses simpler tikzjax
 
 This is build for node, so we require polyfill? and esbuild.config.js
 

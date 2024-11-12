@@ -5,6 +5,8 @@
 	},
 	"dependencies": {
 		"node-tikzjax": "^1.0.3"
+		"node-tikzjax": "^1.0.3",
+		"tikzjax": "^1.0.2"
 	},
 	"devDependencies": {
 		"esbuild": "^0.23.0"
